@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-<!--        <module>smarts-alibaba</module>-->
+<!--        <module>smarts-alibaba</module> -->
 <!--        <module>smarts-common</module>-->
 <!--        <module>smarts-security</module>-->
 <!--        <module>smarts-services</module>-->
